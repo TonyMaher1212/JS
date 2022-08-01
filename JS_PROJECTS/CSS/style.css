@@ -1,0 +1,28 @@
+h1{
+    color: blue;
+}
+
+p{
+    color: blueviolet;
+}
+
+.fail{
+    color: red;
+    font-size: xx-large;
+}
+.pass{
+    color: orange;
+    font-size: x-large;
+}
+.good{
+    color: silver;
+    font-size: large;
+}
+.excellent{
+    color: green;
+    font-size: medium;
+}
+.full_mark{
+    color: black;
+    font-size: xx-large;
+}
